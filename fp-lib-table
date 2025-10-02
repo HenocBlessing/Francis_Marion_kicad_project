@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library-FMARION-FOOTPRINT")(type "KiCad")(uri "${KIPRJMOD}/Library-FMARION-FOOTPRINT.pretty")(options "")(descr ""))
+)
